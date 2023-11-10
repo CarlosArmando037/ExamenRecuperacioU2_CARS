@@ -1,0 +1,8 @@
+C:\Users\cd08\Desktop\ExamenRecuperacionU2_CARS\ExamenRecuperacionU2_CARS\bin\Debug\ExamenRecuperacionU2_CARS.exe.config
+C:\Users\cd08\Desktop\ExamenRecuperacionU2_CARS\ExamenRecuperacionU2_CARS\bin\Debug\ExamenRecuperacionU2_CARS.exe
+C:\Users\cd08\Desktop\ExamenRecuperacionU2_CARS\ExamenRecuperacionU2_CARS\bin\Debug\ExamenRecuperacionU2_CARS.pdb
+C:\Users\cd08\Desktop\ExamenRecuperacionU2_CARS\ExamenRecuperacionU2_CARS\obj\Debug\ExamenRecuperacionU2_CARS.csproj.AssemblyReference.cache
+C:\Users\cd08\Desktop\ExamenRecuperacionU2_CARS\ExamenRecuperacionU2_CARS\obj\Debug\ExamenRecuperacionU2_CARS.csproj.SuggestedBindingRedirects.cache
+C:\Users\cd08\Desktop\ExamenRecuperacionU2_CARS\ExamenRecuperacionU2_CARS\obj\Debug\ExamenRecuperacionU2_CARS.csproj.CoreCompileInputs.cache
+C:\Users\cd08\Desktop\ExamenRecuperacionU2_CARS\ExamenRecuperacionU2_CARS\obj\Debug\ExamenRecuperacionU2_CARS.exe
+C:\Users\cd08\Desktop\ExamenRecuperacionU2_CARS\ExamenRecuperacionU2_CARS\obj\Debug\ExamenRecuperacionU2_CARS.pdb
